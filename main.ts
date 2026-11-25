@@ -9,7 +9,7 @@ import { dirname, join } from "node:path";
 // the difficulty is felt in-scene (wobbling, collapsing), and the
 // payoff belongs to June herself (grinning, afraid to blink).
 const line =
-  "June pressed her muddy hands to the spinning clay, the pot wobbling, collapsing, then rising straight, and she stared at it, grinning, afraid to blink.";
+  "June pressed her muddy hands to the spinning clay, the pot wobbling, slumping, then rising straight, and she stared at it, grinning, afraid to blink.";
 
 const outputPath = "/output/entry.txt";
 
